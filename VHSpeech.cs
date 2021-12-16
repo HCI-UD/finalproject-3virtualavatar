@@ -16,15 +16,9 @@ public class VHSpeech : MonoBehaviour
     void Update()
     {
         if(!ls){
-            ls = GameObject.Find("remy").GetComponent<LipSync>();
+            ls = GameObject.Find("remy").GetComponent<LipSync>(); 
         }
     }
-
-    // public void orderIsReady(){
-    //     ls.Play(lsAudio[0]);
-    //     //popup first dialogue canvas with 4 button options visible
-        
-    // }
 
     //First option in senario one
     public void iWasBornHere() {
@@ -62,5 +56,11 @@ public class VHSpeech : MonoBehaviour
     //Option 3&4
     public void haveANiceDay() {
         ls.Play(lsAudio[8]);
+    }
+
+    //Intro
+    public void hereIsYourOrder() {
+        
+        ls.Play(lsAudio[9]);
     }
 }
