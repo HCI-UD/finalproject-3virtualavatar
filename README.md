@@ -14,4 +14,4 @@ https://virtualavatars.cargo.site/
 
 Running Executable:
 Our executable requires a Windows machine to run on (x86_64).
-Our executable file is located under 'Releases'. Download 'vaexecutable.7z' and unzip. In the 'vaexecutable' folder, run the 'virtualavatars.exe' file.
+Our executable file is located under our repo's 'Releases' (Also here: https://github.com/HCI-UD/finalproject-3virtualavatar/releases). Download 'vaexecutable.7z' and unzip. In the 'vaexecutable' folder, run the 'virtualavatars.exe' file.
