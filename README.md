@@ -14,3 +14,5 @@ https://virtualavatars.cargo.site/
 
 Running:
 Folder with executables is in the Google Drive Link below. Download the files from that link and then run on Unity.
+https://drive.google.com/drive/folders/1EVqV2yZHzYCp9fESfqHvSla6vlXsY3HK
+
