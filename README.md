@@ -13,4 +13,4 @@ This is our website. It includes all the information pertaining to the experienc
 https://virtualavatars.cargo.site/
 
 Running:
-Folder with executables is on the website in a Google Drive Link. Download the files from that link and then run on Unity.
+Folder with executables is in the Google Drive Link below. Download the files from that link and then run on Unity.
